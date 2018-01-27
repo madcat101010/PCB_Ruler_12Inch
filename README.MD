@@ -23,4 +23,4 @@ The .kicad_pcb layout file has many reference footprints and rulers for mm/cm, 1
 
 Feel free to modify it with your own formulas or footprints. This PCB design is an open source hardware project. I am not responsible for any inaccuracies in values or formulas. Use this design at your own risk!
 
-I came up with the star and moon logo on the top soldermask. Feel free to replace it with your own solder mask art!
+I came up with the star and gear logo on the top soldermask. Feel free to replace it with your own solder mask art!
