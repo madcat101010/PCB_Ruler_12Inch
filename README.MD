@@ -2,7 +2,7 @@ PROJECT:		PCB_Ruler_12Inch
 
 REV:			1.0
 
-AUTHOR:			Robin S. Yang
+AUTHOR:			Robin Y
 
 DATE:			26 JAN 2018
 
@@ -21,6 +21,6 @@ There is a blank .sch schematic. No schematic provided as there are zero working
 
 The .kicad_pcb layout file has many reference footprints and rulers for mm/cm, 1/16 inch, and 1/10 inch. Most footprints sources from KiCAD's v4 and v5 open source footprint libraries. Footprints in the ruler_specific.pretty library were created by me for this PCB. Footprints include ones that belong to standards (i.e. JEDEC).
 
-Feel free to modify it with your own formulas or footprints. This PCB design is an open source hardware project. I am not responsible for any inaccuracies in values or formulas. Use this design at your own risk!
+Feel free to modify it with your own formulas or footprints. This PCB design is an open source hardware project. I am not responsible for any inaccuracies in values or formulas. Do not use this design to poke at live circuits! Use this design at your own risk!
 
 I came up with the star and gear logo on the top soldermask. Feel free to replace it with your own solder mask art!
