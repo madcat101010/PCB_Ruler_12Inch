@@ -8,7 +8,7 @@ DATE:			26 JAN 2018
 
 PCB SOFTWARE:	KiCAD 4.0.4-stable
 
-DIMENSIONS:		12.060 mil x 1.500 mil
+DIMENSIONS:		12,060 mil x 1,500 mil
 
 LAYERS:			2
 
